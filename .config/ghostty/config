@@ -1,0 +1,5 @@
+theme = catppuccin-mocha
+font-size = 18
+font-family = FiraCode Nerd Font Mono
+#font-style = bold
+#font-synthetic-style = true
